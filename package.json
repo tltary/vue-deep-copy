@@ -1,0 +1,18 @@
+{
+  "name": "vue-deep-copy",
+  "version": "1.0.0",
+  "description": "simple vue deep copy array or object",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue",
+    "deep-copy",
+    "copy",
+    "deep",
+    "vue-deep"
+  ],
+  "author": "Antony Pyatkov",
+  "license": "ISC"
+}
